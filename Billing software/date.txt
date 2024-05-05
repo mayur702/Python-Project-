@@ -1,0 +1,3 @@
+date = dt.datetime.now()
+        label = Label(firstframe,text=f"{date:%A, %B %d, %Y}", font="Calibri, 15",bg="white")
+        label.place(x=1000,y=15)

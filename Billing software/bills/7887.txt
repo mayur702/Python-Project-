@@ -1,0 +1,18 @@
+	 Welcome Mayur Kirana Store
+ Bill Number:7887
+ Customer Name:Hari
+ Mobile Number:8830019299
+ Customer Email:hari@gmail.com
+ Current Time:0
+==================================================
+ Products			QTY			Price
+==================================================
+
+ Tukada			4			200
+
+ ==================================================
+ Sub Amount:			Rs.13400.00
+ Tax Amount:			Rs.117.50
+ Total Amount:			Rs.13517.50
+==================================================
+

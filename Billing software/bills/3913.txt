@@ -1,0 +1,14 @@
+	 Welcome Mayur Kirana Store
+ Bill Number:3913
+ Mobile Name:5465465
+ Customer Number:jkjoikjio
+ Customer Email:jkkjh
+==================================================
+ Products			QTY			Price
+==================================================  Coconat oil			1			100
+
+ ==================================================
+ Sub Amount:			Rs.220.00
+ Tax Amount:			Rs.1.20
+ Total Amount:			Rs.221.20
+==================================================

@@ -1,0 +1,17 @@
+	 Welcome Mayur Kirana Store
+ Bill Number:8789
+ Customer Name:dnjdnwiudw
+ Mobile Number:65695145778
+ Customer Email:dedkwm@kjndkjw.com
+==================================================
+ Products			QTY			Price
+==================================================
+ Keshar gold			1			1650
+ Keshar gold			2			3300
+
+ ==================================================
+ Sub Amount:			Rs.4950.00
+ Tax Amount:			Rs.33.00
+ Total Amount:			Rs.4983.00
+==================================================
+

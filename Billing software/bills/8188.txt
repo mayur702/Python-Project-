@@ -1,0 +1,19 @@
+	 Welcome Mayur Kirana Store
+ Bill Number:8188
+ Customer Name:mnhj
+ Mobile Number:5654645
+ Customer Email:mansja@
+ Current Time:0
+==================================================
+ Products			QTY			Price
+==================================================
+
+ Chand Tara			10			800
+ Keshar gold			1			1650
+
+ ==================================================
+ Sub Amount:			Rs.10700.00
+ Tax Amount:			Rs.90.50
+ Total Amount:			Rs.10790.50
+==================================================
+

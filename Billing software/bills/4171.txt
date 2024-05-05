@@ -1,0 +1,16 @@
+	 Welcome Mayur Kirana Store
+ Bill Number:4171
+ Mobile Name:1234567895
+ Customer Number:bh
+ Customer Email:bh@gmail.com
+==================================================
+ Products			QTY			Price
+==================================================
+ Uttam sugar			2			120
+
+ ==================================================
+ Sub Amount:			Rs.120.00
+ Tax Amount:			Rs.0.60
+ Total Amount:			Rs.120.60
+==================================================
+

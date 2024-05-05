@@ -1,0 +1,10 @@
+	 Welcome Mayur Kirana Store
+ Bill Number:2717
+ Customer Name:
+ Mobile Number:
+ Customer Email:
+ Current Time:0
+==================================================
+ Products			QTY			Price
+==================================================
+

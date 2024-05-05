@@ -1,0 +1,13 @@
+	 Welcome Mayur Kirana Store
+ Bill Number:7724
+ Mobile Name:74489816
+ Customer Number:ganesh nikam
+ Customer Email:rubina
+==================================================
+ Products			QTY			Price
+==================================================
+==================================================
+ Sub Amount:			Rs.14500.00
+ Tax Amount:			Rs.130.50
+ Total Amount:			Rs.14630.50
+==================================================

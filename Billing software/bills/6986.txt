@@ -1,0 +1,13 @@
+	 Welcome Mayur Kirana Store
+ Bill Number:6986
+ Customer Name:tejas jagdale
+ Phone Number:7070
+ Customer Email:tefafd
+==================================================
+ Products			QTY			Price
+==================================================
+==================================================
+ Sub Amount:			Rs.100.00
+ Tax Amount:			Rs.0.00
+ Total Amount:			Rs.100.00
+==================================================

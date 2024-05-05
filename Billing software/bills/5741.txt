@@ -1,0 +1,18 @@
+	 Welcome Mayur Kirana Store
+ Bill Number:5741
+ Mobile Name:1234567891
+ Customer Number:xyz
+ Customer Email:hgfj
+==================================================
+ Products			QTY			Price
+==================================================
+ Sub Amount:			
+ Tax Amount:			
+
+
+ ==================================================
+ Sub Amount:			Rs.1510.00
+ Tax Amount:			Rs.15.00
+ Total Amount:			Rs.1525.00
+==================================================
+

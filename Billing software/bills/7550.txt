@@ -1,0 +1,17 @@
+	 Welcome Mayur Kirana Store
+ Bill Number:7550
+ Mobile Name:8104051015
+ Customer Number:Mayur magar
+ Customer Email:mayurmagar702@gmail.com
+==================================================
+ Products			QTY			Price
+==================================================
+ Keshar gold			3			4950
+ Uttam sugar			1			60
+
+ ==================================================
+ Sub Amount:			Rs.5010.00
+ Tax Amount:			Rs.49.50
+ Total Amount:			Rs.5059.50
+==================================================
+

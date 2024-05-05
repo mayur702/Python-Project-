@@ -1,0 +1,21 @@
+	 Welcome Mayur Kirana Store
+ Bill Number:5475
+ Customer Name:vittal
+ Mobile Number:5485454545
+ Customer Email:wusw7udyw
+ Current Time:0
+==================================================
+ Products			QTY			Price
+==================================================
+
+ Ratan			1			60
+ Ratan			1			60
+ Ratan			1			60
+ Ratan			1			60
+
+ ==================================================
+ Sub Amount:			Rs.300.00
+ Tax Amount:			Rs.2.40
+ Total Amount:			Rs.302.40
+==================================================
+

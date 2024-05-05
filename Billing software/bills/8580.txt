@@ -1,0 +1,19 @@
+	 Welcome Mayur Kirana Store
+ Bill Number:8580
+ Customer Name:mmmm
+ Mobile Number:5464521
+ Customer Email:mmm@
+ Current Time:0
+==================================================
+ Products			QTY			Price
+==================================================
+
+ Basamati			10			700
+ Chand Tara			5			400
+
+ ==================================================
+ Sub Amount:			Rs.1100.00
+ Tax Amount:			Rs.10.20
+ Total Amount:			Rs.1110.20
+==================================================
+

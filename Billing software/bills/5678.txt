@@ -1,0 +1,17 @@
+	 Welcome Mayur Kirana Store
+ Bill Number:5678
+ Customer Name:mahshysy
+ Mobile Number:1236549873
+ Customer Email:
+==================================================
+ Products			QTY			Price
+==================================================
+ Keshar gold			1			1650
+ Uttam sugar			1			60
+
+ ==================================================
+ Sub Amount:			Rs.1710.00
+ Tax Amount:			Rs.16.50
+ Total Amount:			Rs.1726.50
+==================================================
+

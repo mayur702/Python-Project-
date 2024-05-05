@@ -1,0 +1,25 @@
+	 Welcome Mayur Kirana Store
+ Bill Number:1664
+ Customer Name:hjhj
+ Mobile Number:54554
+ Customer Email:hb
+ Current Time:0
+==================================================
+ Products			QTY			Price
+==================================================
+
+ Coconat oil			31			3100
+ Coconat oil			3662			366200
+ Coconat oil			3662			366200
+ Coconat oil			3662			366200
+ Coconat oil			3662			366200
+ Coconat oil			3662			366200
+ Coconat oil			3662			366200
+ Coconat oil			3662			366200
+
+ ==================================================
+ Sub Amount:			Rs.2932700.00
+ Tax Amount:			Rs.29326.00
+ Total Amount:			Rs.2962026.00
+==================================================
+
