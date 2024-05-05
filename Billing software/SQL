@@ -1,0 +1,3 @@
+create database mayur;
+use mayur;
+create table login(name varchar(20),email varchar(20),contact int,gender varchar(7),country varchar(20),id_type varchar(20),id_number int,password varchar(8));
